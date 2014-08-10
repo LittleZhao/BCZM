@@ -1,4 +1,5 @@
 //cup is dual core, only get to 50% cpu usage.
+//the INTERVAL and COUNT are positive relation with the curve cycle period.
 #include <Windows.h>
 #include <stdlib.h>
 #include <math.h>
