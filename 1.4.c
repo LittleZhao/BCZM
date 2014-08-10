@@ -3,9 +3,9 @@
 #include <stdlib.h>
 #include <math.h>
 
-const double SPLIT = 0.01;//split*count should be 2
-const int COUNT = 200;
-const int INTERVAL = 600;
+const double SPLIT = 0.02;//SPLIT*COUNT should be 2
+const int COUNT = 100;
+const int INTERVAL = 200;
 
 int main(void)
 {
